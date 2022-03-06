@@ -1,0 +1,11 @@
+
+ .greycolor{
+    color: rgb(109, 97, 97);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#specificLink {
+    color: rgb(179, 127, 149);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+  }
